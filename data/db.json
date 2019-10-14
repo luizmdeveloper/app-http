@@ -1,0 +1,16 @@
+{
+  "cidades": [
+    {
+      "id": 1,
+      "nome": "Petrolina"
+    },
+    {
+      "id": 2,
+      "nome": "Juazeiro"
+    },
+    {
+      "id": 3,
+      "nome": "Casa Nova"
+    }
+  ]
+}
